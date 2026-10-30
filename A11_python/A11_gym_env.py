@@ -1,4 +1,4 @@
-#A11_Problem_CHO_SEOKJIN
+#CHO_SEOKJIN
 
 import numpy as np
 from pettingzoo import ParallelEnv
