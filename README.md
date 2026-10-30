@@ -82,6 +82,11 @@ The system consists of two main components:
    - Handles game mechanics
    - Sends updated game states to Python
 
+
+<p align="center">
+  <img src="images/tcp_flow.png" width="900">
+</p>
+
 Communication between the two components is performed through TCP sockets.
 
 Python sends action commands to Unreal Engine.
