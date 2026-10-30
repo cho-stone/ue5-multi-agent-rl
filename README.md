@@ -6,6 +6,10 @@ The project connects an Unreal Engine game running on Windows with a Python rein
 
 ## Overview
 
+<p align="center">
+  <img src="images/.gif" width="750">
+</p>
+
 The objective of this project was to develop a game environment in Unreal Engine and apply reinforcement learning so that multiple NPCs could learn and improve their behaviors autonomously through gameplay.
 
 Two NPCs are placed on opposite sides of a map containing several obstacles.
