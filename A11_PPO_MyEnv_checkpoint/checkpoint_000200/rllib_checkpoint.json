@@ -1,0 +1,1 @@
+{"type": "Algorithm", "checkpoint_version": "1.1", "format": "cloudpickle", "state_file": "/home/seokjin/ray_results/PPO_MyEnv_2025-07-07_16-56-019f9ugbbo/checkpoint_000200/algorithm_state.pkl", "policy_ids": ["policy_1", "policy_0"], "ray_version": "2.5.0", "ray_commit": "586c376e0769082cb5cfa1333e8264a5fa6b73ec"}
