@@ -1,4 +1,4 @@
-#A11_Problem_CHO_SEOKJIN
+#CHO_SEOKJIN
 
 import ray
 from ray.rllib.algorithms.ppo import PPOConfig
