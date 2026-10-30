@@ -218,6 +218,10 @@ After this stage:
 
 Both agents achieved similar final reward levels.
 
+<p align="center">
+  <img src="images/training_reward.png" width="750">
+</p>
+
 ### 3.2 Episode Length
 
 At the beginning of training, episodes frequently reached the maximum length of approximately 7000 steps because the agents behaved inefficiently.
@@ -227,6 +231,10 @@ Episode length decreased sharply during the first 30 training iterations.
 Afterward, episode lengths generally stabilized below 1000 steps.
 
 This suggests that the agents learned to locate and engage their opponent more efficiently.
+
+<p align="center">
+  <img src="images/episode_length.png" width="750">
+</p>
 
 ### 3.3 Emergent Agent Behaviors
 
