@@ -108,19 +108,18 @@ The game state is serialized as JSON and transmitted to the Python server.
 
 PettingZoo was used as the multi-agent environment interface.
 
-A custom **PettingZoo Parallel Environment** was implemented to connect the Python reinforcement learning system with Unreal Engine.
+A custom PettingZoo Parallel Environment was implemented to connect the Python reinforcement learning system with Unreal Engine.
 
 RLlib was used for training because of its support for distributed and multi-agent reinforcement learning.
 
 The reinforcement learning algorithm used was:
-
-**PPO (Proximal Policy Optimization)**
+PPO (Proximal Policy Optimization)
 
 Each agent uses a separate policy.
 
 ### 2.3 Observation Space
 
-Each agent receives a **16-dimensional observation vector**.
+Each agent receives a 16-dimensional observation vector.
 
 The observation contains information about both the agent itself and its opponent, including:
 
